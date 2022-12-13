@@ -8,9 +8,8 @@ Redux Definition:-
 Three Principles
 
     First Principle
-        "The state of your whole application is stored in an object tree within
-        a single store"
-        Maintain our application state in a single object which would be managed by the   Redux store
+        "The state of your whole application is stored in an object tree within a single store"
+        Maintain our application state in a single object which would be managed by the Redux store
 
     Cake Shop -
         Let's assume we are tracking the number of cakes on the shelf
